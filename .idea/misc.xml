@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Chatting/app/src/main/res/drawable/background_login.xml" value="0.1315" />
+        <entry key="..\:/Chatting/app/src/main/res/drawable/blackpipe.xml" value="0.1315" />
+        <entry key="..\:/Chatting/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1315" />
+        <entry key="..\:/Chatting/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Chatting/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Chatting/app/src/main/res/layout/frament.xml" value="0.16847826086956522" />
+        <entry key="..\:/Chatting/app/src/main/res/layout/frament2.xml" value="0.16847826086956522" />
+        <entry key="..\:/Chatting/app/src/main/res/layout/frament_account.xml" value="0.16847826086956522" />
+        <entry key="..\:/Chatting/app/src/main/res/layout/frament_messenger.xml" value="0.16847826086956522" />
+        <entry key="..\:/Chatting/app/src/main/res/layout/frament_news.xml" value="0.16847826086956522" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Chatting</string>
+    <string name="welcome">Welcome !</string>
+    <string name="logintitle">Sign up with Social of fill the form to continue </string>
+    <string name="name">name user</string>
+    <string name="password">password</string>
+    <string name="passwordagain">password again</string>
+    <string name="email">email</string>
+    <string name="Donothaveanaccount">Do not have an account ?</string>
+    <string name="Register">Register</string>
+    <string name="signup">Sign up</string>
+    <string name="registration">Registration</string>
+    <string name="messenger">Đoạn chat</string>
+    <string name="news">Tin tức</string>
+    <string name="account">Tài khoản</string>
+
+
+</resources>
